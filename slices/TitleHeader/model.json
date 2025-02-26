@@ -1,0 +1,16 @@
+{
+  "id": "title_header",
+  "type": "SharedSlice",
+  "name": "TitleHeader",
+  "description": "TitleHeader",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

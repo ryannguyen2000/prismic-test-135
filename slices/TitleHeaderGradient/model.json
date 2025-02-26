@@ -1,0 +1,16 @@
+{
+  "id": "title_header_gradient",
+  "type": "SharedSlice",
+  "name": "TitleHeaderGradient",
+  "description": "TitleHeaderGradient",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

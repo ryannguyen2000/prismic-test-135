@@ -1,0 +1,16 @@
+{
+  "id": "banner_video",
+  "type": "SharedSlice",
+  "name": "BannerVideo",
+  "description": "BannerVideo",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

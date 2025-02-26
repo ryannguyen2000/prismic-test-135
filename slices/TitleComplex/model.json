@@ -1,0 +1,16 @@
+{
+  "id": "title_complex",
+  "type": "SharedSlice",
+  "name": "TitleComplex",
+  "description": "TitleComplex",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}
